@@ -1,4 +1,5 @@
-cc=gcc
+cc=arm-linux-gnueabi-gcc
+
 all : projbin
 projbin : ar1.o main.o sub.o
 $(CC) -o projbin ar1.o main.o sub.o
@@ -12,3 +13,5 @@ $(CC) -c -o  main.o main.c
 sub.o : sub.c
 $(CC) -c -o  sub.o sub.c
 
+clean:
+     rm -rf *.o projbin
