@@ -8,6 +8,7 @@
 - Draw IO
 - Shutter
 
+# DAY2 
 -Embedded Systems vs General Purpose Systems
 -two nd three layer Embedded Systems
 
