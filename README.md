@@ -8,12 +8,13 @@
 - Draw IO
 - Shutter
 
-# DAY2 
+# DAY2 (TOPICS)
 -Embedded Systems vs General Purpose Systems
--two nd three layer Embedded Systems
+
+ -two nd three layer Embedded Systems
 
 -Modularize project and code
--Build project
+ -Build project
 
 -Makefile
 -Hex dump vs Execution us Embedded linux
