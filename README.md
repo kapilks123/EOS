@@ -55,6 +55,7 @@
 -size
 
 ## C
+
   -Header (importance header files)
   -library
   -Declaration => Function prototype
@@ -65,6 +66,14 @@
   -static (.a) => ar
   -Dynamic (.so) => gcc -shared -fPIC
   -using the library => -lname -Lpath
+
+## System call vs Library Calls
+
+
+## PID and PPID
+
+  - getpid()
+  - getppid()
 ## Fork
 
 
