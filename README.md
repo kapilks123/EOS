@@ -54,4 +54,17 @@
   
 -size
 
+## C
+  -Header (importance header files)
+  -library
+  -Declaration => Function prototype
+  -Defination
+
+## Library
+
+  -static (.a) => ar
+  -Dynamic (.so) => gcc -shared -fPIC
+  -using the library => -lname -Lpath
+## Fork
+
 
