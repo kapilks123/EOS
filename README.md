@@ -50,7 +50,7 @@
   - .data=> global init
   - .bss => global unitialized
   - heap => malloc
-  - stack => return addr, local variables
+  - stack => return addr, local variables 
   
 -size
 
