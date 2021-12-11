@@ -56,16 +56,16 @@
 
 ## C
 
-  -Header (importance header files)
-  -library
-  -Declaration => Function prototype
-  -Defination
+- Header (importance header files)
+- Library
+- Declaration => Function prototype
+- Defination
 
 ## Library
 
-  -static (.a) => ar
-  -Dynamic (.so) => gcc -shared -fPIC
-  -using the library => -lname -Lpath
+- Static (.a) => ar
+- Dynamic (.so) => gcc -shared -fPIC
+- Using the library => -lname -Lpath
 
 ## System call vs Library Calls
 
@@ -74,6 +74,33 @@
 
   - getpid()
   - getppid()
+
+
+
+## COncepts
+
+- Address Space
+- User Space
+- Kernel Space
+
+- Segmentation Fault
+
+- PCB - DATA structure to hold the information about the process
+
+- Library call vs System call
+
+- open, read, write close
 ## Fork
 
+## Pipes
 
+## FIFOs
+ 
+## Process state
+1. Create
+2. Ready
+3. Running
+4. Waiting
+5. Exit
+
+## Synchronazation
